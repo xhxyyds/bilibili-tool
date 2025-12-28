@@ -5,6 +5,7 @@
 // @description  只要触发ended事件即统计次数，显示带封面、作者、时间的Top10（默认收起，还原原版UI）
 // @match        *://www.bilibili.com/*
 // @grant        none
+// @license      MIT 
 // ==/UserScript==
 
 (function () {
